@@ -1,0 +1,4 @@
+,X,property_type,claim_id,claim_amount,property_value,pml,deductible,claim_status,payment,incident_date,incident_type,prem
+18688,18688,factory,74d49533,6142600.0,"5,083,000","1,271,000","254,000",settled,5888600,21/07/2023,fire,20342
+18906,18906,SUV,4682a3e5,314270.0,"725,000","725,000","1,500",under investigation,0,14/10/2023,collision,719
+18794,18794,sedan,755ae20c,43980.0,"20,000","20,000",250,settled,43730,09/06/2022,collision,68
